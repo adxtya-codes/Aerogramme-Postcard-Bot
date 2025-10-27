@@ -1,0 +1,18 @@
+# Placeholder for Language-Specific Images
+
+Please add your postcard sample images here with the following naming convention:
+
+- en.jpg (English)
+- fr.jpg (French)  
+- es.jpg (Spanish)
+- de.jpg (German)
+- hi.jpg (Hindi)
+- ja.jpg (Japanese)
+
+The bot will automatically select the appropriate image based on the user's language selection.
+
+Example images should show:
+- Front: A sample photo
+- Back: Sample text layout showing how messages appear on postcards
+
+This will help users understand what their final postcard will look like.

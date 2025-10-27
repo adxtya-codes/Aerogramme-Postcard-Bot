@@ -1,0 +1,6 @@
+2025/10/24-23:45:26.166 61e4 Reusing MANIFEST C:\Users\Aditya\Desktop\aerogramme-bot\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2025/10/24-23:45:26.195 61e4 Recovering log #49
+2025/10/24-23:45:26.196 61e4 Reusing old log C:\Users\Aditya\Desktop\aerogramme-bot\.wwebjs_auth\session\Default\Local Storage\leveldb/000049.log 
+2025/10/25-00:05:37.984 40c0 Level-0 table #53: started
+2025/10/25-00:05:38.004 40c0 Level-0 table #53: 15621 bytes OK
+2025/10/25-00:05:38.006 40c0 Delete type=0 #49
